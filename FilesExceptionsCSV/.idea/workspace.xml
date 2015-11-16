@@ -1,12 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f372f540-0209-4a39-b96d-10d42d86f91b" name="Default" comment="added reminders to update the paths.">
+    <list default="true" id="f372f540-0209-4a39-b96d-10d42d86f91b" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/ParseCSV.java" afterPath="$PROJECT_DIR$/src/ParseCSV.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/ParseCSVTester.java" afterPath="$PROJECT_DIR$/src/ParseCSVTester.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/ReadBytes.java" afterPath="$PROJECT_DIR$/src/ReadBytes.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/ReadLines.java" afterPath="$PROJECT_DIR$/src/ReadLines.java" />
     </list>
     <ignored path="FilesExceptionsCSV.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -465,7 +461,13 @@
       <option name="project" value="LOCAL" />
       <updated>1447706150374</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="added reminders to update the paths.">
+      <created>1447706378447</created>
+      <option name="number" value="00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1447706378447</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TestHistory">
