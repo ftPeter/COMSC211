@@ -25,10 +25,7 @@ public class ParseCSV {
     }
 
     public boolean readyForBusiness() {
-        if( inputStream != null )
-            return true;
-        else
-            return false;
+        return ( inputStream != null );
     }
 
     public void open() {
@@ -69,6 +66,7 @@ public class ParseCSV {
 
     public static void main( String[] args) {
         System.out.println("Starting ParseCSV");
+        // YOU WILL NEED TO UPDATE THIS LINE FOR YOUR MACHINE
         String filename = "/Users/peter/Google Drive/COMSC-211/Homework-Solutions/FilesExceptionsCSV/Spreadsheet.csv";
 
         ParseCSV parseObj = new ParseCSV(filename);

@@ -14,9 +14,10 @@ public class ReadBytes {
 
     public static void main( String [] args) {
         System.out.println("Starting ReadBytes");
+        // YOU WILL NEED TO UPDATE THIS LINE FOR YOUR MACHINE
         String filename = "/Users/peter/Google Drive/COMSC-211/Homework-Solutions/FilesExceptionsCSV/Spreadsheet.csv";
 
-        FileReader inputStream = null;
+        FileReader inputStream;
 
         try {
             inputStream = new FileReader(filename);

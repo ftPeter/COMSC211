@@ -11,6 +11,7 @@ import java.io.IOException;
 public class ReadLines {
     public static void main(String[] args) throws IOException {
 
+        // YOU WILL NEED TO UPDATE THIS LINE FOR YOUR MACHINE
         String filename = "/Users/peter/Google Drive/COMSC-211/Homework-Solutions/FilesExceptionsCSV/Spreadsheet.csv";
 
         BufferedReader inputStream = null;
